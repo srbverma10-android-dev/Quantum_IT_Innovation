@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/ic_baseline_close_18.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/ic_baseline_close_32.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/tab_indicator.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout-v26/common_action_bar.xml" value="0.8333333333333334" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/activity_main.xml" value="0.24896265560165975" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/common_action_bar.xml" value="0.2863961813842482" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/toolbar.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

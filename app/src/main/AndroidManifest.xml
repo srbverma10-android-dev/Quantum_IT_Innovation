@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.QuantumITInnovation">
         <activity
-            android:name=".MainActivity"
+            android:name=".sign_up_or_sign_in.presentation.activity.SignUpOrSignInActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
