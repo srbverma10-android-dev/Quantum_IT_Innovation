@@ -4,5 +4,6 @@
     <dimen name="s_42">42sp</dimen>
 
 
-    <dimen name="d_40">40dp</dimen>
+    <dimen name="d_28">28dp</dimen>
+    <dimen name="d_1">1dp</dimen>
 </resources>

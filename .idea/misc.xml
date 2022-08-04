@@ -6,9 +6,13 @@
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/ic_baseline_close_18.xml" value="0.1537037037037037" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/ic_baseline_close_32.xml" value="0.1537037037037037" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/tab_indicator.xml" value="0.1537037037037037" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/drawable/tab_layout_border.xml" value="0.15" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout-v26/common_action_bar.xml" value="0.8333333333333334" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/activity_main.xml" value="0.24896265560165975" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/activity_sign_up_or_log_in.xml" value="0.184375" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/common_action_bar.xml" value="0.2863961813842482" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/fragment_login.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/fragment_sign_up.xml" value="0.184375" />
         <entry key="..\:/Users/KIIT/OneDrive/Desktop/Quantum_IT_Innovation/app/src/main/res/layout/toolbar.xml" value="0.5" />
       </map>
     </option>

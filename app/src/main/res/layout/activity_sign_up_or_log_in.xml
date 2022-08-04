@@ -7,7 +7,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".sign_up_or_sign_in.presentation.activity.SignUpOrSignInActivity">
+        tools:context=".sign_up_or_sign_in.presentation.activity.SignUpOrLogInActivity">
 
         <include
             android:id="@+id/common_action_bar"
@@ -35,6 +35,8 @@
             app:tabSelectedTextColor="@color/white"
             app:tabIndicatorAnimationMode="elastic"
             app:tabIndicator="@drawable/tab_indicator"
+
+            android:background="@drawable/tab_layout_border"
             />
 
         <androidx.viewpager2.widget.ViewPager2
