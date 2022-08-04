@@ -5,6 +5,7 @@
 
 
     <dimen name="d_48">48dp</dimen>
+    <dimen name="d_36">36dp</dimen>
     <dimen name="d_28">28dp</dimen>
     <dimen name="d_8">8dp</dimen>
     <dimen name="d_1">1dp</dimen>

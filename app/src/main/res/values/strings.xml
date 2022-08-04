@@ -11,4 +11,13 @@
     <string name="login_with">Login with</string>
     <string name="register_now">Don\'t have an account? Register now.</string>
     <string name="login">Login</string>
+    <string name="create_account">Create an \nAccount</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Sourabh Kumar Verma</string>
+    <string name="contact_no">Contact no</string>
+    <string name="in">IN</string>
+    <string name="phone_hint">9131377908</string>
+    <string name="agree_with_tnc">I am agree with Terms and Conditions.</string>
+    <string name="already_have_an_account">Already have an account? Sign In.</string>
+    <string name="register">Register</string>
 </resources>
